@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E155A62B-CDDC-4641-B4D4-9F6A5CDCB393}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsSpotLightBackground</RootNamespace>
-    <AssemblyName>WindowsSpotLightBackground</AssemblyName>
+    <RootNamespace>SpotLight_Background</RootNamespace>
+    <AssemblyName>SpotLight_Background</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
