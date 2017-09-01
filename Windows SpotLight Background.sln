@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsSpotLightBackground", "ConsoleApp1\WindowsSpotLightBackground.csproj", "{E155A62B-CDDC-4641-B4D4-9F6A5CDCB393}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsSpotLightBackground", "WindowsSpotLightBackground\WindowsSpotLightBackground.csproj", "{E155A62B-CDDC-4641-B4D4-9F6A5CDCB393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
